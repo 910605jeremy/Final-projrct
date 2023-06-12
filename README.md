@@ -59,6 +59,8 @@ Next, you will enter this interface where you can select the desired functionali
 ![image](https://github.com/910605jeremy/Final-projrct/assets/132763427/7c4fd989-1c5d-4078-92bd-609b076e7351)
 
 * The "help" function provides information about input length or number size restrictions.
+* Function 3 will enter a small game based on DFS (Depth-First Search):
+> The first line of user input specifies the number of subsequent input lines. Each line of input contains numbers that represent the order in which the numbers are connected. After inputting the data, the program will determine if these numbers can form at least one cycle. If a cycle can be formed, it will output "YES"; otherwise, it will output "NO".
 * The "setting" function allows users to change the number of decimal places displayed and the number of records shown in function 4.
 * Function 7 saves the current records in a specific format in the "output.txt" file (the format is the same as "file.txt").
 * When choosing "exit," the program will ask if you want to save the current data before closing. The saving method is the same as in function 7.
